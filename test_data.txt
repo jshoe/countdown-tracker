@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "UUID": 2,
+      "datetime": "1994-08-25-00-00",
+      "title": "Test Time 2"
+    },
+    {
+      "UUID": 1,
+      "datetime": "1995-04-29-02-00",
+      "title": "Jonathan's Birth"
+    },
+    {
+      "UUID": 3,
+      "datetime": "2015-01-01-00-00",
+      "title": "New Year's"
+    },
+    {
+      "UUID": 4,
+      "datetime": "2015-01-10-10-00",
+      "title": "Flying to Oakland"
+    },
+    {
+      "UUID": 5,
+      "datetime": "2015-01-20-00-00",
+      "title": "Class start"
+    },
+    {
+      "UUID": 6,
+      "datetime": "2015-05-20-00-00",
+      "title": "End of spring semester"
+    }
+  ]
+}
