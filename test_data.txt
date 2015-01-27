@@ -6,11 +6,6 @@
       "title": "Test Time 2"
     },
     {
-      "UUID": 1,
-      "datetime": "1995-04-29-02-00",
-      "title": "Jonathan's Birth"
-    },
-    {
       "UUID": 3,
       "datetime": "2015-01-01-00-00",
       "title": "New Year's"
@@ -18,7 +13,7 @@
     {
       "UUID": 4,
       "datetime": "2015-01-10-10-00",
-      "title": "Flying to Oakland"
+      "title": "Airplane"
     },
     {
       "UUID": 5,
